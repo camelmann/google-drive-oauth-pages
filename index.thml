@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GSync</title>
+</head>
+<body>
+  <main>
+    <h1>Sync</h1>
+
+    <p>
+      Sync is a personal utility used to synchronize files
+      between an computer and a Drive.
+    </p>
+
+    <p>
+      The application is intended for personal use by the project owner.
+      It does not provide services to the general public.
+    </p>
+
+    <p>
+      <a href="privacy.html">Privacy policy</a>
+    </p>
+  </main>
+</body>
+</html>
